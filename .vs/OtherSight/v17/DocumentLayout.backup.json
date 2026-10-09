@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garri\\Projects\\OtherSight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CA5B98-2F0E-460B-A18D-7E5C1B7DC7D2}|OtherSight\\OtherSight.vcxproj|C:\\Users\\garri\\Projects\\OtherSight\\OtherSight\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8CA5B98-2F0E-460B-A18D-7E5C1B7DC7D2}|OtherSight\\OtherSight.vcxproj|solutionrelative:OtherSight\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\garri\\Projects\\OtherSight\\OtherSight\\main.cpp",
+              "RelativeDocumentMoniker": "OtherSight\\main.cpp",
+              "ToolTip": "C:\\Users\\garri\\Projects\\OtherSight\\OtherSight\\main.cpp",
+              "RelativeToolTip": "OtherSight\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-09T20:17:02.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
